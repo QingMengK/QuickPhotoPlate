@@ -1,5 +1,5 @@
 # Photo plate Between Android and Windows
-# 基于ADB实现安卓设备截图并保存到Windows电脑剪切板
+基于ADB实现安卓设备截图并保存到Windows电脑剪切板
 ## 食用方法
 
 首先你需要一根数据线，一台Windows笔记本,以及一台安卓设备
